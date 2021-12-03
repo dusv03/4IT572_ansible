@@ -9,7 +9,7 @@
         image: ami-04902260ca3d33422
         region: us-east-1
         key_name: devops
-        vpc_subnet_id: subnet-093b1cc19ebce97a3
+        vpc_subnet_id: subnet-00a0cb9f722a12b8f
         assign_public_ip: yes
         count: 1
         aws_access_key: "{{access_key}}"
